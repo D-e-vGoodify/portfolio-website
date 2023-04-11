@@ -1,0 +1,29 @@
+/* font-family: Abel */
+@font-face {
+  font-family: Abel;
+  src: url(../login..system/public/fonts/Abel/Abel-Regular.ttf);
+}
+
+/* font-family: Barlow */
+@font-face {
+  font-family: Barlow;
+  src: url(../login..system/public/fonts/Barlow/Barlow-Light.ttf);
+}
+
+/* font-family: Josefin */
+@font-face {
+  font-family: Josefin;
+  src: url(../login..system/public/fonts/Josefin_Sans/static/JosefinSans-Medium.ttf);
+}
+
+/* font-family: Montserrat */
+@font-face {
+  font-family: Montserrat;
+  src: url(../login..system/public/fonts/Montserrat/static/Montserrat-Regular.ttf);
+}
+
+/* font-family: Open */
+@font-face {
+  font-family: Open;
+  src: url(../login..system/public/fonts/Open_Sans/static/OpenSans/OpenSans-Regular.ttf);
+}
