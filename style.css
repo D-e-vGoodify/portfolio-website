@@ -58,8 +58,10 @@ p {
   overflow: hidden;
   
   position: relative;
-  top: 3rem;
-  left: 7rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 #pic img {
