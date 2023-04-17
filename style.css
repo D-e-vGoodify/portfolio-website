@@ -57,7 +57,6 @@ p {
   background: wheat;
   overflow: hidden;
   
-  position: relative;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
