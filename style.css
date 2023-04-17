@@ -56,11 +56,10 @@ p {
   border-radius: 100%;
   background: wheat;
   overflow: hidden;
-  
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 #pic img {
