@@ -136,8 +136,6 @@ p {
 
 .project1, .project2, .project3, .project4 {
   position: relative;
-  left: 50%;
-  right: 50%;
   margin-top: 1rem;
   padding-top: 1rem;
   width: 18rem;
