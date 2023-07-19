@@ -135,6 +135,7 @@ p {
 }
 
 .project1, .project2, .project3, .project4 {
+  position: relative;
   margin: 0 auto;
   padding-top: 1rem;
   width: 18rem;
@@ -146,7 +147,7 @@ p {
 }
 
 .project1 li {
-  margin-left: 1.5rem;
+  padding-left: 1.5rem;
   font-size: .7rem;
 }
 
